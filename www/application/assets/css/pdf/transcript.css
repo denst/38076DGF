@@ -1,0 +1,56 @@
+#logo{
+    width: 600px;
+}
+#user{
+    margin-top: 85px;
+    padding: 4px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+#title-table{
+    font-weight: bold;
+    font-size: 16px;
+}
+#subject-table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 5px solid black;
+    line-height: 1.9;
+    font-weight: bold;
+    font-size: 18px;
+}
+#subject-table td{
+    border:  2px solid black;
+}
+#subject-table #subject_title{
+     width: 250px; 
+     text-align: center;
+     border-bottom: 5px solid black;
+     border-right: 5px solid black;
+}
+#subject-table .border-top-bold{
+    border-top: 5px solid black;
+}
+#subject-table .border-right-bold{
+    border-right: 5px solid black;
+}
+#subject-table .border-bottom-bold{
+    border-bottom: 5px solid black;
+}
+#subject-table .border-left-bold{
+    border-left: 5px solid black;
+}
+#period_number td{
+    width: 79px;
+    text-align: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+#subject-table tbody td{
+    height: 25px;
+}
+#footer-table{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 3;
+}

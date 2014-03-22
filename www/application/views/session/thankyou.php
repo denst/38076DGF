@@ -1,0 +1,1 @@
+<p id="thank-block"><?php echo $text ?></p>

@@ -1,0 +1,18 @@
+head.js(
+        "/laguadmin/js/jquery-1.6.2.min.js",
+        "/laguadmin/lib/jquery-ui/jquery-ui-1.8.15.custom.min.js",
+        "/laguadmin/lib/fusion-charts/FusionCharts.js",
+        "/laguadmin/js/jquery.microaccordion.js",
+        "/laguadmin/js/jquery.tools.min.js",
+        "/laguadmin/js/jquery.stickyPanel.js",
+        "/laguadmin/js/jquery.text-overflow.min.js",
+        "/laguadmin/js/xbreadcrumbs.js",
+        "/laguadmin/js/lagu.js",
+        function(){
+                lga_fusionCharts.chart_k();
+                lga_fusionCharts.chart_a();
+                lga_textTruncate.init();
+                lga_sortable.init();
+                lga_tips.init();
+        }
+)

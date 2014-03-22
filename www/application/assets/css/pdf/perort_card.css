@@ -1,0 +1,69 @@
+.text-underline{
+     text-decoration: underline;
+}
+#big_logo{
+    width: 400px;
+    height: 550px;
+    margin-top: -10px;
+    margin-left: 300px;
+}
+#student_title_table{
+    font-family: Times New Roman;
+    line-height: 1.6;
+    margin-left: 560px;
+    margin-top: -10px;
+    font-size: 18px;
+}
+#table_1, #table_2{
+    display: inline-block;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+#table_1{
+    margin-left: 8px;
+}
+#table_1 .period{
+    width: 50px;
+}
+#table_1 .tr{
+    width: 20px;
+}
+#table_1 td, #table_2 td{
+    border: 1px solid black;
+}
+#table_1 thead td, #table_2 thead td{
+    padding: 3px;
+    height: 30px;
+}
+#table_1 tbody td, #table_2 tbody td{
+    padding: 3px;
+    text-align: left;
+}
+#table_2{
+    vertical-align: top;
+    margin-left: 20px;
+}
+#table_2 tbody{
+    font-size: 12px;
+}
+#sign_table{
+     font-weight: bold;
+     line-height: 3;
+}
+#sign_table .sign{
+    margin-left: 200px;
+}
+#sign_table #parent_sign{
+    margin-left: 30px;
+    margin-top: -25px;
+}
+#sign_table #princ_sign{
+    margin-top: -25px;
+    margin-left: 230px;
+}

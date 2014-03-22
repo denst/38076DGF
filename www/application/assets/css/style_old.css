@@ -1,0 +1,98 @@
+/* 
+    Document   : style
+    Created on : Jan 25, 2013, 12:07:36 PM
+    Author     : nikolay
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.field-block {
+    margin-bottom: 20px;
+}
+
+.field-block label {
+    display: block;
+}
+
+.group-field-block {
+    margin-bottom: 20px;
+}
+
+.form-registrate {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.form-registrate input[type="text"] {
+    margin-right: 10px;
+    width: 250px;
+    height: 20px;
+}
+
+.error {
+    color: red;
+}
+
+.qualification {
+    margin-bottom: 50px;
+}
+
+.experience {
+    margin-bottom: 50px;
+}
+
+.success {
+    color: green;
+}
+
+.success p {
+    background-color: greenyellow;
+    width: 200px;
+    font-size: 21px;
+}
+
+.remove-cls img {
+    width: 20px;
+    position: absolute;
+    margin: 2px 0 0 5px;
+}
+
+.hide-cls img {
+    width: 20px;
+    position: absolute;
+    margin: 2px 0 0 5px;
+}
+
+.delete-subj img {
+    width: 19px;
+}
+
+.right {
+    width: 50%;
+    float: right;
+}
+
+.left {
+    width: 48%;
+    float: left;
+    margin-left: 10px;
+}
+
+.table th {
+    border: 1px solid black;
+}
+
+.table .academic {
+    border-left: none;
+    border-right: none;
+    font-size: 18px;
+}
+
+.table .total {
+    border-left: none;
+    border-right: none;    
+}
+
+#class_years{
+    text-align: right;
+}

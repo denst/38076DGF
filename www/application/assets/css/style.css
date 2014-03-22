@@ -1,0 +1,567 @@
+#fullscreen{
+    margin-left: 0px;
+}
+
+.btn.btn_bS.tb{
+    margin-bottom: 5px;
+    width: 70px;
+}
+
+.hide{
+    display: none;
+}
+
+#class_years{
+    text-align: right;
+}
+
+.table-classes thead th{
+    height: 20px;
+    font-size: 14px;
+}
+
+.table-classes th{
+    border: 1px solid;
+    vertical-align: middle;
+    padding: 3px;
+    width: 65px;
+    height: 37px;
+}
+
+.table-classes .name{
+    text-align: left;
+    width: 210px;
+    padding-left: 10px;
+}
+
+/*======================= Custom sidebar =============================*/
+#register-block .index, .resetpassword, .newpassword,
+.setnewpassword{
+    width: 576px;
+}
+
+#register-block .registerstudent,
+#register-block .registerteacher, 
+#register-block .registeradmin {
+    width: 960px;
+    margin-top: -90px;
+}
+
+/*======================= Custom sidebar =============================*/
+#loader{
+    width: 160px;
+}
+#level-sidebar{
+    display: block;
+    width: 200px;
+    float: left;
+    margin-left: -100%;
+}
+
+#level-sidebar h4{
+    color: #5F5F5F;
+    padding: 5px 8px 5px 10px;
+    margin-bottom: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent transparent #f0f0f0;
+    cursor: pointer;
+    position: relative;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#level-sidebar a{
+    text-decoration: none;
+    color: #5F5F5F;
+}
+
+#level-sidebar h4:hover, #level-sidebar .micro-active{
+    background: #f0f0f0;
+    border: 1px solid #e3e3e3;
+    color: #222;
+}
+
+/*======================== users styles ============================*/
+#user-block #academic_year{
+    margin-bottom: 45px;
+}
+#user-block #main-info label{
+    display: inline-block;
+    margin-right: 10px;
+}
+#user-block .lbl_a{
+    display: inline-block;
+    width: 120px;
+}
+
+#user-block .lbl_b{
+    display: block;
+    margin-bottom: 4px;
+    color: #666;
+    font-weight: 700;
+}
+
+#user-block #contacts-block .sepH_b{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+#user-block #brothers .sepH_b{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+#user-block #brothers input{
+    width: 165px;
+}
+
+#user-block #contacts-block label, #user-block #brothers label{
+    display: block;
+}
+
+#user-block #languages label{
+    width: 25px;
+}
+
+#user-block .content{
+    font-weight: bold;
+    font-size: 14px;
+    color: #666;
+    border: 1px solid #ccc;
+    width: 150px;
+    padding: 5px;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    height: 18px;
+}
+
+#user-block .view-block{
+    width: 400px;
+    /*height: 340px;*/
+    float: left;
+    margin-right: 20px;
+}
+
+#user-block .information{
+    height: 380px;
+}
+
+#user-block .st-1, #user-block .st-2{
+    height: 165px;
+}
+
+#user-block #emerg-desc{
+    margin-left: 135px;
+}
+
+#user-block #experience-year .sepH_b{
+    display: inline-block;
+    margin-right: 20px;
+}
+    
+#user-block #experience-year .lbl_a{
+    width: 40px;
+}
+
+#user-block #experience-year .content{
+    width: 100px;
+}
+
+#user-block #health_conditions{
+    width: 425px;
+}
+
+#user-block .records{
+    width: 350px;
+}
+
+#user-block .record-name{
+    width: 325px;
+}
+
+#user-block b.req{
+    color: red;
+}
+
+#user-block #finish_payment, #user-block #pdf-block{
+    display: inline-block;
+}
+
+#user-block #pdf-block{
+    margin-left: 150px;
+}
+
+#user-block .tab-title{
+    font-weight: bold;
+}
+
+#user-block .label_scholarship{
+    width: 80px;
+}
+
+#user-block .class-block{
+    display: inline-block;
+}
+
+#user-block #class_subjects{
+    width: 300px;
+    vertical-align: top;
+    margin-left: 150px;
+}
+
+#user-block .payment_form{
+    display: inline;
+}
+
+
+#user-block #email label{
+    width: 40px;
+}
+
+#user-block #email div{
+    width: 300px;    
+}
+
+#user-block .health{
+    margin-bottom: 10px;
+    display: block;
+    width: 400px;
+}
+
+.input_cond{
+    margin-bottom: 12px;
+}
+/*======================== Levels styles ========================*/
+#level-block .action a, 
+#subject-block .action a, 
+#achievement-block .action a,
+.teacher-table .action a {
+    margin: 0 5px;
+}
+    
+#level-block .lbl_a{
+    display: inline-block;
+    width: 55px;
+}
+
+#level-block .delete-button{
+    position: relative;
+    top: 2px;
+    left: 5px;
+}
+
+#level-block .block-class{
+    margin-bottom: 15px;
+}
+
+#level-block .block-class .lbl_a{
+    width: 90px;
+}
+
+#level-block #finace label{
+    width: 135px;
+}
+
+#level-block #each label{
+    margin-top: 10px;
+}
+
+#level-block #each strong{
+    color: black;
+    font-size: 14px;
+}
+
+#level-block .students_count{
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    padding: 2px 10px;
+    color: #fff;
+    background: #A3A1A1;;
+    font-weight: 700;
+    line-height: 1;
+    width: 24px;
+    text-align: center;
+}
+
+/*======================== Levels styles =========================*/
+#subject-block .group-field-block label, #academic-period label{
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+/*======================== Levels styles =========================*/
+#academic-period label{
+    width: 55px;
+}
+
+#academic-period .lbl_a{
+    width: 40px;
+}
+
+#academic-period .period{
+    float: left;
+    margin-right: 100px;
+}
+
+/*======================== Thank styles =========================*/
+#thank-block{
+    font-size: 20px;
+    position: relative;
+    top: 220px;
+    left: 106px;
+    color: #666;
+}
+
+.teacher-table #teachers_data_table_wrapper{
+    overflow: visible;
+}
+
+#teachers_data_table .chzn-container, #teachers_data_table .chzn-container .default, 
+#user-block .chzn-container, #user-block .chzn-container .default
+{
+    width: 200px !important;
+}
+
+#user-block .chzn-drop{
+    width: 200px !important;
+}
+
+#class-students{
+    margin-top: 30px;
+}
+
+#actions{
+    /*position: absolute;*/
+}
+
+#actions .action-button{
+    background: #f1f1f1;
+/*    position: relative;
+    top: 15px;*/
+    /*margin: 0 6px 6px 0;*/
+    padding: 4px;
+    border: 1px solid #ddd;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    float: left;
+    margin-left: 3px;
+}
+
+#actions .action-button:hover{
+    background: #ddd;
+    border: 1px solid #ccc;
+}
+
+.modal-backdrop, .modal-backdrop.fade.in {
+    opacity: 0.2 !important;
+}
+
+.modal{
+    border: 4px solid #ccc !important;
+    border: 12px solid rgba(0, 0, 0, 0.2) !important;
+    background-clip: padding-box !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    border-radius: 10px !important;
+    width: 430px !important;
+    margin-left: -170px !important;
+    margin-top: 220px !important;
+}
+.modal .tac{
+    padding: 10px;
+}
+
+
+/*====================== Modal ===============================*/
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1040;
+  background-color: #000000;
+}
+
+.modal-backdrop.fade {
+  opacity: 0;
+}
+
+.modal-backdrop,
+.modal-backdrop.fade.in {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+
+.modal {
+  position: fixed;
+  top: 10%;
+  left: 50%;
+  z-index: 1050;
+  width: 560px;
+  margin-left: -280px;
+  background-color: #ffffff;
+  border: 1px solid #999;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  *border: 1px solid #999;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  outline: none;
+  -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+  -webkit-background-clip: padding-box;
+     -moz-background-clip: padding-box;
+          background-clip: padding-box;
+}
+
+.modal.fade {
+  top: -25%;
+  -webkit-transition: opacity 0.3s linear, top 0.3s ease-out;
+     -moz-transition: opacity 0.3s linear, top 0.3s ease-out;
+       -o-transition: opacity 0.3s linear, top 0.3s ease-out;
+          transition: opacity 0.3s linear, top 0.3s ease-out;
+}
+
+.modal.fade.in {
+  top: 10%;
+}
+
+.modal-header {
+  padding: 9px 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.modal-header .close {
+  margin-top: 2px;
+}
+
+.modal-header h3 {
+  margin: 0;
+  line-height: 30px;
+}
+
+.modal-body {
+  position: relative;
+  max-height: 400px;
+  padding: 15px;
+  overflow-y: auto;
+}
+
+.modal-form {
+  margin-bottom: 0;
+}
+
+.modal-footer {
+  padding: 14px 15px 15px;
+  margin-bottom: 0;
+  text-align: right;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+  *zoom: 1;
+  -webkit-box-shadow: inset 0 1px 0 #ffffff;
+     -moz-box-shadow: inset 0 1px 0 #ffffff;
+          box-shadow: inset 0 1px 0 #ffffff;
+}
+
+.modal-footer:before,
+.modal-footer:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+
+.modal-footer:after {
+  clear: both;
+}
+
+.modal-footer .btn + .btn {
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.modal-footer .btn-group .btn + .btn {
+  margin-left: -1px;
+}
+
+.modal-footer .btn-block + .btn-block {
+  margin-left: 0;
+}
+
+.error_page {
+    position: relative;
+    left: -200px;
+    top: 75px;
+}
+
+.formEl_a fieldset {
+    background-color: white;
+}
+
+#img-polaroid {
+    padding: 4px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.academic_delete_button{
+    float: right !important;
+}
+
+#main_content #thank-block{
+    margin-left: -210px;
+}
+
+/*====================== Main modul ===============================*/
+li.deb-style{
+    border: 1px solid #ccc !important;
+    margin: 5px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background: #ececec;
+    background: -moz-linear-gradient(top, #f9f9f9 0%, #ececec 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9f9f9), color-stop(100%,#ececec));
+    background: -webkit-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+    background: -o-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+    /*border-bottom: 0px !important;*/
+}
+
+.academic_error{
+    background-color: rgb(211, 20, 20);
+}
+
+.toggle_fin_debtors, .toggle_academic_debtors{
+    margin-right: 20px;
+}
+
+thead .t_ch {
+    background: none !important;
+}
+
+#financial_debtors .toggle_financial_class, 
+#academic_debtors .toggle_academic_class{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#academic_debtors .home_room_debtor{
+    display: inline-block;
+}

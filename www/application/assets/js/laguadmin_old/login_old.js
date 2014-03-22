@@ -1,0 +1,12 @@
+head.js(
+        "/laguadmin/js/jquery-1.6.2.min.js",
+        "/laguadmin/js/jquery.tools.min.js",
+        "/laguadmin/lib/jquery-validation/jquery.validate.js",
+        "/laguadmin/js/login.js",
+        "/laguadmin/js/lagu.js",
+        function(){
+                lga_loginTabs.init();
+                lga_formFocus.init();
+                lga_validation.init();
+        }
+)

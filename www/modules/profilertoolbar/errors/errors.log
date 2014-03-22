@@ -1,0 +1,332 @@
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(26)</span> "account_photo(300x300).jpg"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/php9dWc8Y"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 26809
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368044848LZA.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044848LZA.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044848LZA.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044848LZA.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:27:28 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:28 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044848LZA.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(26)</span> "account_photo(400x400).jpg"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/php2oFonn"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 42227
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368044865PZQ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044865PZQ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044865PZQ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044865PZQ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:27:45 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:27:45 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044865PZQ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:28:02 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:02 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5229.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:28:02 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:02 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368044882HRW.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:28:02 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:02 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 15:28:15 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:15 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5252.JPG"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/phpAG6u4b"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 1890156
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:28:15 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:15 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368044895IMT.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:28:15 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:15 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044895IMT.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:28:15 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:15 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:28:16 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:16 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044895IMT.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:28:16 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:16 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:28:16 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:16 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044895IMT.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:28:16 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:16 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:28:17 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:28:17 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368044895IMT.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5252.JPG"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/phpcHWMXK"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 1890156
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045023BaH.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045023BaH.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045023BaH.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045023BaH.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:30:23 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:23 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:30:24 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:30:24 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045023BaH.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:32:03 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:03 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5232.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:32:03 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:03 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045123VAH.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:32:03 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:03 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 15:32:09 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:09 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5252.JPG"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/phpW9TCEM"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 1890156
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:32:09 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:09 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045129wZJ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:32:09 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:09 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045129wZJ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:32:09 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:09 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:32:10 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:10 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045129wZJ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:32:10 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:10 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:32:10 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:10 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045129wZJ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:32:10 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:10 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:32:11 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:32:11 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045129wZJ.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:30 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:30 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5215.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:33:30 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:30 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045210FbL.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:30 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:30 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 15:33:38 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:38 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5228.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:33:38 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:38 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045218wiK.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:38 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:38 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 15:33:42 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:42 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5247.JPG"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/php7j2TRV"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 1945608
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:33:42 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:42 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045222nHo.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:42 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:42 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045222nHo.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:42 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:42 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:33:42 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:42 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045222nHo.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:42 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:42 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:33:43 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:43 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045222nHo.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:33:43 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:43 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:33:43 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:33:43 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045222nHo.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:34:54 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:34:54 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5228.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:34:54 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:34:54 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045294SRF.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:34:54 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:34:54 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 15:34:58 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:34:58 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5239.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:34:58 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:34:58 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045298XzE.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:34:58 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:34:58 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 15:35:04 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:04 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5252.JPG"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/phpSRS6ND"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 1890156
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 15:35:04 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:04 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368045304NfS.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:35:04 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:04 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045304NfS.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:35:04 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:04 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:35:05 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:05 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045304NfS.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:35:05 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:05 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:35:05 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:05 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045304NfS.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 15:35:05 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:05 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 15:35:05 America/Chicago] ------------------------------------------------------
+[08-May-2013 15:35:05 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368045304NfS.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:00:19 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:19 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(12)</span> "IMG_5229.JPG"
+        "type" => <small>string</small><span>(0)</span> ""
+        "tmp_name" => <small>string</small><span>(0)</span> ""
+        "error" => <small>integer</small> 1
+        "size" => <small>integer</small> 0
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 16:00:19 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:19 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368046819ZRp.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:00:19 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:19 America/Chicago] temp - <pre class="debug"><small>bool</small> FALSE</pre> - //ajax/ajaximage
+[08-May-2013 16:00:24 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:24 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(26)</span> "account_photo(400x400).jpg"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/phpUfaY4E"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 42227
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 16:00:24 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:24 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368046824adi.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046824adi.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046824adi.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046824adi.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 16:00:25 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:00:25 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046824adi.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] files - <pre class="debug"><small>array</small><span>(1)</span> <span>(
+    "photoimg" => <small>array</small><span>(5)</span> <span>(
+        "name" => <small>string</small><span>(26)</span> "account_photo(400x400).jpg"
+        "type" => <small>string</small><span>(10)</span> "image/jpeg"
+        "tmp_name" => <small>string</small><span>(14)</span> "/tmp/phpL8Lm2d"
+        "error" => <small>integer</small> 0
+        "size" => <small>integer</small> 42227
+    )</span>
+)</span></pre> - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] image name - <pre class="debug"><small>string</small><span>(17)</span> "1368046942NSs.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046942NSs.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046942NSs.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046942NSs.jpg"</pre> - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] in resize -  - //ajax/ajaximage
+[08-May-2013 16:02:22 America/Chicago] ------------------------------------------------------
+[08-May-2013 16:02:22 America/Chicago] temp - <pre class="debug"><small>string</small><span>(73)</span> "/www/sites/dandiigo/application/assets/files/users/temp/1368046942NSs.jpg"</pre> - //ajax/ajaximage
